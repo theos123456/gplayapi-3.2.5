@@ -1,0 +1,13 @@
+.gradle/
+.idea/
+out/
+build/
+gradle-app.setting
+/request.*
+/local.properties
+/src/main/java/com/aurora/gplayapi/tests/*
+/lib/src/test/java/com/aurora/gplayapi/*
+okhttp_cache/
+
+# MAC OSX system files
+*.DS_Store
